@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+}
+#game-area {
+    background: #ccc;
+}
+.block {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: #000;
+    border: 1px solid #fff;
+}

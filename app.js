@@ -1,5 +1,9 @@
 requirejs.config({
-    baseUrl: 'app',
+    baseUrl: 'bower_components',
+    paths: {
+      app: '../app',
+      underscore: 'underscore/underscore-min'
+    },
     shim: {
       underscore: {
         exports: '_'
@@ -7,4 +11,4 @@ requirejs.config({
     }
 });
 
-requirejs(['main']);
+requirejs(['app/main', 'underscore']);

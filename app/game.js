@@ -1,4 +1,4 @@
-define(['shape', 'utils', 'config'], function(Shape, utils, config) {
+define(['app/shape', 'app/utils', 'app/config'], function(Shape, utils, config) {
   
   /**
    * Game

@@ -1,4 +1,4 @@
-define(['block'], function(Block) {
+define(['app/block'], function(Block) {
   
   /**
    * Shape.

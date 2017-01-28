@@ -1,0 +1,27 @@
+{
+  "name": "tetris-petris",
+  "version": "1.0.0",
+  "description": "Cute Tetris Game",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaushnian/tetris-petris.git"
+  },
+  "keywords": [
+    "tetris-petris",
+    "tetris",
+    "petris"
+  ],
+  "author": "Ievgen Kaushnian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kaushnian/tetris-petris/issues"
+  },
+  "homepage": "https://github.com/kaushnian/tetris-petris#readme",
+  "dependencies": {
+    "bower": "1.8.0"
+  }
+}

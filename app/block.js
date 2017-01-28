@@ -1,4 +1,4 @@
-define(['config'], function(config) {
+define(['app/config'], function(config) {
   var Block = function(x, y) {
     this.position = {
         x: x,

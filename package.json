@@ -1,6 +1,6 @@
 {
   "name": "tetris-petris",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Cute Tetris Game",
   "main": "app.js",
   "scripts": {

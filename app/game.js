@@ -19,6 +19,7 @@ define(['app/shape', 'app/utils', 'app/config'], function(Shape, utils, config) 
     
     // Init playing field.
     var element = document.getElementById('game-area');
+    element.innerHTML = '';
     element.style.width = this.WIDTH + 'px';
     element.style.height = this.HEIGHT + 'px';
     

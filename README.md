@@ -1,2 +1,2 @@
 # tetris-pertis
-Tetris-pertis game
+Tetris game on pure JS
